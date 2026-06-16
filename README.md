@@ -31,7 +31,7 @@ Git · GitHub · Postman · IntelliJ IDEA · Maven · Docker (learning)
 
 ## 📌 Featured Project
 
-### [E-Commerce REST API](https://github.com/yourusername/ecommerce-api)
+### [E-Commerce REST API]([https://github.com/yourusername/ecommerce-api](https://github.com/alshwadfy/Simple-E-Commerce-API))
 > A production-ready backend API with authentication, product management, and role-based security.
 
 `Spring Boot` `Spring Security` `JWT` `PostgreSQL` `Hibernate` `Swagger UI`
