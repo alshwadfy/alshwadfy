@@ -7,8 +7,10 @@ Open to junior backend roles and internships.
 ---
 
 ## 🛠️ Tech Stack
+
 **Frontend**
 Dart . Flutter 
+
 **Backend**
 Java · Spring Boot · Spring Security · JWT · Hibernate · JPA · REST APIs
 
