@@ -1,48 +1,57 @@
 # Hi, I'm Ezz al-din 👋
 
 4th-year Software Engineering student from Alexandria, Egypt.
-I build backend systems and REST APIs — currently focused on Java Spring Boot.
+I build backend systems and REST APIs — focused on Java Spring Boot.
 Open to junior backend roles and internships.
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Frontend**
-Dart . Flutter 
-
 **Backend**
 Java · Spring Boot · Spring Security · JWT · Hibernate · JPA · REST APIs
 
 **Database**
-PostgreSQL · MySQL . FireBase
+PostgreSQL · MySQL
 
 **Tools**
-Git · GitHub · Postman · IntelliJ IDEA · Maven · Docker (learning)
+Git · GitHub · Postman · IntelliJ IDEA · Maven · Docker
+
+**Additional**
+Flutter · Firebase · Dart
 
 ---
 
-## 🚀 What I'm Working On
+## 🚀 Featured Projects
 
-- 🛒 **E-Commerce REST API** — Spring Boot · JWT Auth · PostgreSQL · Role-based access (Admin/Customer)
-- 📚 **Learning** — JPA Advanced Mappings · DSA · Docker
+### 🗂️ [Task Manager API](https://github.com/alshwadfy/task-manager-api)
+> Production-grade task management backend with full authentication and testing.
+
+`Spring Boot` `Spring Security` `JWT` `PostgreSQL` `Docker` `JUnit 5` `MockMvc` `Swagger UI`
+
+- 32 automated tests (Mockito + MockMvc)
+- JWT auth with user-specific data isolation
+- Pagination with full metadata
+- Docker multi-stage build — 800MB → 180MB
 
 ---
 
-## 📌 Featured Project
-
-### [E-Commerce REST API](https://github.com/alshwadfy/Simple-E-Commerce-API)
-> A production-ready backend API with authentication, product management, and role-based security.
+### 🛒 [E-Commerce REST API](https://github.com/alshwadfy/Simple-E-Commerce-API)
+> Secure e-commerce backend with role-based access control.
 
 `Spring Boot` `Spring Security` `JWT` `PostgreSQL` `Hibernate` `Swagger UI`
+
+- JWT authentication + role-based authorization (ADMIN/CUSTOMER)
+- Full CRUD for products and categories
+- Layered architecture — Controllers, Services, Repositories, DTOs
 
 ---
 
 ## 📫 Reach Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/ezzaldinalshwadfy/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ezzaldinalshwadfy/)
 [![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:ezzaldinalshwadfy@gmail.com)
 
 ---
 
-*Available for internships and junior backend roles — Egypt & Remote*
+*Available for junior backend roles and internships — Egypt & Remote* 🚀
