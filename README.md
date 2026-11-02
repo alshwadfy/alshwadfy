@@ -1,57 +1,29 @@
-# Hi, I'm Ezz al-din 👋
+# Ezz al-Din Al-Shwadfy | Java Backend Developer, Software Engineering student at Alexandria National University (expected 2027)
 
-4th-year Software Engineering student from Alexandria, Egypt.
-I build backend systems and REST APIs — focused on Java Spring Boot.
-Open to junior backend roles and internships.
+Backend engineer focused on high-concurrency systems, distributed architectures, and robust REST APIs in Java and Spring Boot.
 
 ---
 
-## 🛠️ Tech Stack
-
-**Backend**
-Java · Spring Boot · Spring Security · JWT · Hibernate · JPA · REST APIs
-
-**Database**
-PostgreSQL · MySQL
-
-**Tools**
-Git · GitHub · Postman · IntelliJ IDEA · Maven · Docker
-
-**Additional**
-Flutter · Firebase · Dart
+### Currently Building
+- **[FlashTix](https://github.com/alshwadfy/FlashTix)** — High-concurrency flash-sale ticketing engine.
+  - **Milestones 1–3 completed**: Atomic inventory decrement via Redis Lua scripts (zero overselling verified under 5,000 concurrent requests), Nginx HA load balancing across 3 app instances with transparent failover, and asynchronous payment processing via RabbitMQ with retries, DLQ, and SAGA stock compensation.
+  - **Milestones 4–5 in progress**: Kafka event sourcing and GraphQL subscriptions backed by Redis Pub/Sub.
 
 ---
 
-## 🚀 Featured Projects
-
-### 🗂️ [Task Manager API](https://github.com/alshwadfy/task-manager-api)
-> Production-grade task management backend with full authentication and testing.
-
-`Spring Boot` `Spring Security` `JWT` `PostgreSQL` `Docker` `JUnit 5` `MockMvc` `Swagger UI`
-
-- 32 automated tests (Mockito + MockMvc)
-- JWT auth with user-specific data isolation
-- Pagination with full metadata
-- Docker multi-stage build — 800MB → 180MB
+### Featured Projects
+- **[FlashTix](https://github.com/alshwadfy/FlashTix)** — High-concurrency flash-sale ticketing engine with Redis Lua oversell prevention, Nginx 3-node HA failover, and RabbitMQ SAGA compensation.
+- **[MiniRidis](https://github.com/alshwadfy/MiniRidis)** — Redis-compatible in-memory key-value store on raw TCP sockets with RESP parsing, TTL expiration sweeper, and AOF persistence in Java 21.
+- **[task-manager-api](https://github.com/alshwadfy/task-manager-api)** — REST API with JWT authentication, user data isolation, 50 automated tests, and multi-stage Docker build (800MB → 180MB).
+- **[Simple-E-Commerce-API](https://github.com/alshwadfy/Simple-E-Commerce-API)** — E-commerce REST backend with MySQL, JWT authentication, and ADMIN/CUSTOMER role-based access control.
 
 ---
 
-### 🛒 [E-Commerce REST API](https://github.com/alshwadfy/Simple-E-Commerce-API)
-> Secure e-commerce backend with role-based access control.
-
-`Spring Boot` `Spring Security` `JWT` `PostgreSQL` `Hibernate` `Swagger UI`
-
-- JWT authentication + role-based authorization (ADMIN/CUSTOMER)
-- Full CRUD for products and categories
-- Layered architecture — Controllers, Services, Repositories, DTOs
+### Tech Stack
+Java 21 · Spring Boot · Spring Security · JPA / Hibernate · PostgreSQL · MySQL · Redis · RabbitMQ · Docker · Nginx · k6 · JUnit / Mockito
 
 ---
 
-## 📫 Reach Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/ezzaldinalshwadfy/)
-[![Email](https://img.shields.io/badge/Email-red?style=flat&logo=gmail)](mailto:ezzaldinalshwadfy@gmail.com)
-
----
-
-*Available for junior backend roles and internships — Egypt & Remote* 🚀
+### Contact
+- **LinkedIn**: [linkedin.com/in/ezzaldinalshwadfy](https://www.linkedin.com/in/ezzaldinalshwadfy/)
+- **Email**: [ezzaldinalshwadfy@gmail.com](mailto:ezzaldinalshwadfy@gmail.com)
